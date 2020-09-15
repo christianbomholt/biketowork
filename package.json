@@ -1,0 +1,14 @@
+{
+  "name": "811fc13c2fad803d",
+  "main": "811fc13c2fad803d@3046.js",
+  "version": "3046.0.0",
+  "homepage": "https://observablehq.com/d/811fc13c2fad803d",
+  "author": {
+    "name": "christianbomholt",
+    "url": "https://observablehq.com/@christianbomholt"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
